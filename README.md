@@ -4,3 +4,6 @@ Author: Clarkcj
 
 # Commands
 The only command as of now is /clarkport with the arguments being /clarkport user That teleports you to that user, and the /clarkport user user2 will teleport another user to another user.
+
+# Changelog
+0.5 Beta First Beta and actual version
