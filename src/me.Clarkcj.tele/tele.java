@@ -34,7 +34,7 @@ public class tele
     if (commandLabel.equalsIgnoreCase("clarkport")) {
       if (args.length == 0)
       {
-        player.sendMessage(ChatColor.DARK_RED + "TOO LITTLE ARGUMENTS!");
+        player.sendMessage(ChatColor.DARK_RED + "Too Little Arguments!");
       }
       else if (args.length == 1)
       {
